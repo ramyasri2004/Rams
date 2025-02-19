@@ -1,0 +1,8 @@
+git init 
+git origin link(this link will be there in your repository)
+git add .
+git commit -m "message"
+git pull origin master
+git branch
+git push origin master
+git status
